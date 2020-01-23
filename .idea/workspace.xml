@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ea08b71-a9ae-40e4-9b6f-ab0246fd625b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="src/node_modules/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/src/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/htdocs/scripts/DatabaseDAO.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5508">
+              <caret line="324" column="42" selection-start-line="324" selection-start-column="42" selection-end-line="324" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/htdocs_private/data/DBConnection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$('#weightsHelpInfo').hide();</find>
+      <find>dao</find>
+      <find>ocation</find>
+      <find>$_SESSION['signOffStudent']</find>
+      <find>SESSI</find>
+      <find>getClassExportDataKey</find>
+      <find>getPercentagesExportDataKey</find>
+      <find>getIndexUserFirstLast</find>
+      <find>filereader</find>
+      <find>FileReader</find>
+      <find>getWorksheetWeightsToSubmit</find>
+      <find>blob</find>
+      <find>addDemonstratorSubmit</find>
+      <find>$_SESSION['status']</find>
+      <find>amendGcUpload</find>
+      <find>3</find>
+      <find>&lt; 3</find>
+      <find>createNewModuleKey</find>
+      <find>acceptedFileInput</find>
+      <find>https://stackoverflow.com</find>
+      <find>doExport</find>
+      <find>getStructureOfClassId</find>
+      <find>students/Home</find>
+      <find>/students/</find>
+      <find>removeDemonstratorRequest</find>
+      <find>Home.php</find>
+      <find>doexport</find>
+      <find>submitStudentSignOffRequest</find>
+      <find>set</find>
+      <find>addUserDetails</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\alext\Desktop\worksheet_signoff\src\www</dir>
+      <dir>C:\Users\alext\Desktop\worksheet_signoff\src\www\htdocs\scripts</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/www/htdocs/lecturers/Home.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/view-modules.js" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/lecturers/ViewModules.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/admin/Home.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/add-worksheets.js" />
+        <option value="$PROJECT_DIR$/src/tests/jasmine/button-generation.js" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/sign-off-portal.js" />
+        <option value="$PROJECT_DIR$/src/tests/jest/button.generation.test.js" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/button-generation-logic.js" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/includes/Navigation.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/includes/Security.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/lecturers/view_modules.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/sign-offs/search.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/sign-offs/sign_off_portal.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs_private/database/DBConnection.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs_private/database/MemcachedConnection.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/button.generation.logic.js" />
+        <option value="$PROJECT_DIR$/src/package.json" />
+        <option value="$PROJECT_DIR$/src/tests/phpUnit/DataBaseQueriesTest.php" />
+        <option value="$PROJECT_DIR$/src/tests/jest/add.worksheet.test.js" />
+        <option value="$PROJECT_DIR$/src/tests/PHPUnit/DataBaseQueriesTest.php" />
+        <option value="$PROJECT_DIR$/src/tests/PHPUnit/RedirectTest.php" />
+        <option value="$PROJECT_DIR$/src/tests/PHPUnit/DataBaseQueriesHelperTest.php" />
+        <option value="$PROJECT_DIR$/src/phpunit.xml" />
+        <option value="$PROJECT_DIR$/src/tests/PHPUnit/DatabaseQueriesHelperTest.php" />
+        <option value="$PROJECT_DIR$/src/tests/PHPUnit/DatabaseQueriesTest.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs_private/data/DBConnection.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/admin/home.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/demonstrators/home.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/lecturers/home.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/shared/add_module.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/add.worksheets.js" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/index.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/shared/sign_off_portal.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/class.editing.js" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/DatabaseQueries.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/login.js" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/LoginRedirect.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/LogoutRedirect.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/MemcachedDAO.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/MemcachedQueries.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/User.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/students/home.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs_private/data/MemcachedConnection.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/Redirect.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/sign.off.portal.js" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/students/submit.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/DatabaseQueriesHelper.php" />
+        <option value="$PROJECT_DIR$/src/www/htdocs/scripts/DatabaseDAO.php" />
+        <option value="$PROJECT_DIR$/README.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="38823b65-0265-4623-813e-b010e4f39d6d" name="Local" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/src/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/src/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/src/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/src/vendor/composer" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/version" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="539" />
+    <option name="y" value="18" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="alt28_mmp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alt28_mmp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alt28_mmp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alt28_mmp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alt28_mmp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alt28_mmp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alt28_mmp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alt28_mmp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alt28_mmp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alt28_mmp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alt28_mmp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alt28_mmp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="htdocs_private" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alt28_mmp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alt28_mmp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="htdocs_private" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alt28_mmp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alt28_mmp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="htdocs_private" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564004542200" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alext\Desktop\worksheet_signoff" />
+      <recent name="C:\Users\alext\Desktop\worksheet_signoff\src" />
+      <recent name="C:\Users\alext\Desktop\worksheet_signoff\src\tests\Selenium" />
+      <recent name="C:\Users\alext\Desktop\worksheet_signoff\src\www\htdocs\img" />
+      <recent name="C:\Users\alext\Desktop\worksheet_signoff\src\www\htdocs\admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alext\Desktop\worksheet_signoff\src\www\htdocs\shared" />
+      <recent name="C:\Users\alext\Desktop\worksheet_signoff\src\tests\phpUnit" />
+      <recent name="C:\Users\alext\Desktop\worksheet_signoff\src\www\htdocs\lib\bootstrap-4.3.1" />
+      <recent name="C:\Users\alext\Desktop\worksheet_signoff\src\www\htdocs\lib" />
+      <recent name="C:\Users\alext\Desktop\worksheet_signoff\src\www\htdocs\scripts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.DatabaseQueriesHelperTest">
+    <configuration name="DatabaseQueriesHelperTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="DatabaseQueriesHelperTest" file="$PROJECT_DIR$/src/tests/PHPUnit/DatabaseQueriesHelperTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DatabaseQueriesTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="DatabaseQueriesTest" file="$PROJECT_DIR$/src/tests/PHPUnit/DatabaseQueriesTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DatabaseQueriesTest.test_gets_correct_indexes_for_column_names_in_order" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="DatabaseQueriesTest" file="$PROJECT_DIR$/src/tests/PHPUnit/DatabaseQueriesTest.php" method="test_gets_correct_indexes_for_column_names_in_order" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DatabaseQueriesTest.test_security" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="DatabaseQueriesTest" file="$PROJECT_DIR$/src/tests/PHPUnit/DatabaseQueriesTest.php" method="test_security" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PHPUnit" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner configuration_file="$PROJECT_DIR$/src/phpunit.xml" scope="XML" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RedirectTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="RedirectTest" file="$PROJECT_DIR$/src/tests/PHPUnit/RedirectTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PHP Server" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Local" start_url="/?module=CS12020&amp;username=demonstrator">
+      <method v="2">
+        <option name="FtpUpload" enabled="true">
+          <server_id>814edc3c-da91-4835-8c5f-6bac2daa35e4</server_id>
+          <server_name>localapache</server_name>
+          <group_name />
+          <path>C:\Users\alext\Desktop\worksheet_signoff\src\www</path>
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="PHP Web Page.PHP Server" />
+      <item itemvalue="PHPUnit.PHPUnit" />
+      <item itemvalue="PHPUnit.RedirectTest" />
+      <item itemvalue="PHPUnit.DatabaseQueriesTest.test_gets_correct_indexes_for_column_names_in_order" />
+      <item itemvalue="PHPUnit.DatabaseQueriesTest" />
+      <item itemvalue="PHPUnit.DatabaseQueriesTest.test_security" />
+      <item itemvalue="PHPUnit.DatabaseQueriesHelperTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.DatabaseQueriesHelperTest" />
+        <item itemvalue="PHPUnit.DatabaseQueriesTest" />
+        <item itemvalue="PHPUnit.DatabaseQueriesTest.test_security" />
+        <item itemvalue="PHPUnit.DatabaseQueriesTest.test_gets_correct_indexes_for_column_names_in_order" />
+        <item itemvalue="PHPUnit.RedirectTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ea08b71-a9ae-40e4-9b6f-ab0246fd625b" name="Default Changelist" comment="" />
+      <created>1551726798022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551726798022</updated>
+      <workItem from="1551726800646" duration="735000" />
+      <workItem from="1551783699014" duration="9477000" />
+      <workItem from="1551793471755" duration="9364000" />
+      <workItem from="1551870041851" duration="2058000" />
+      <workItem from="1552307266539" duration="27822000" />
+      <workItem from="1552396151204" duration="8595000" />
+      <workItem from="1552570984151" duration="3990000" />
+      <workItem from="1552654111687" duration="23648000" />
+      <workItem from="1552843992995" duration="2852000" />
+      <workItem from="1553264643571" duration="7498000" />
+      <workItem from="1553337708032" duration="17385000" />
+      <workItem from="1553419617855" duration="17973000" />
+      <workItem from="1553513858324" duration="599000" />
+      <workItem from="1553514574607" duration="112000" />
+      <workItem from="1553520099537" duration="1499000" />
+      <workItem from="1553592239177" duration="19762000" />
+      <workItem from="1553687978032" duration="23277000" />
+      <workItem from="1553767732147" duration="9282000" />
+      <workItem from="1553858708786" duration="25097000" />
+      <workItem from="1553943471294" duration="30513000" />
+      <workItem from="1553985834895" duration="11000" />
+      <workItem from="1554032695326" duration="11430000" />
+      <workItem from="1554116943851" duration="6964000" />
+      <workItem from="1554230087081" duration="474000" />
+      <workItem from="1554287053801" duration="921000" />
+      <workItem from="1554288003737" duration="934000" />
+      <workItem from="1554316457689" duration="599000" />
+      <workItem from="1554392016565" duration="1779000" />
+      <workItem from="1554410825524" duration="2344000" />
+      <workItem from="1554555574307" duration="36005000" />
+      <workItem from="1554593823095" duration="921000" />
+      <workItem from="1554633062286" duration="34988000" />
+      <workItem from="1554734325675" duration="18046000" />
+      <workItem from="1554765248480" duration="20000" />
+      <workItem from="1554820419470" duration="26437000" />
+      <workItem from="1554892915350" duration="11695000" />
+      <workItem from="1554921827173" duration="10676000" />
+      <workItem from="1554987796870" duration="36367000" />
+      <workItem from="1555068831882" duration="33075000" />
+      <workItem from="1555149319071" duration="39591000" />
+      <workItem from="1555238256615" duration="39999000" />
+      <workItem from="1555331021781" duration="43489000" />
+      <workItem from="1555415130988" duration="40987000" />
+      <workItem from="1555463434477" duration="308000" />
+      <workItem from="1555500581999" duration="2081000" />
+      <workItem from="1555503300979" duration="22355000" />
+      <workItem from="1555540778592" duration="2116000" />
+      <workItem from="1555543793654" duration="2400000" />
+      <workItem from="1555547143312" duration="178000" />
+      <workItem from="1555547495173" duration="3591000" />
+      <workItem from="1555754506970" duration="1358000" />
+      <workItem from="1555962267293" duration="1357000" />
+      <workItem from="1556111742558" duration="626000" />
+      <workItem from="1556120731106" duration="4125000" />
+      <workItem from="1556195871401" duration="10655000" />
+      <workItem from="1556278439257" duration="7695000" />
+      <workItem from="1556378400530" duration="11139000" />
+      <workItem from="1556480732858" duration="599000" />
+      <workItem from="1556653695818" duration="1746000" />
+      <workItem from="1556740696225" duration="2765000" />
+      <workItem from="1556798364035" duration="19597000" />
+      <workItem from="1556839138354" duration="10401000" />
+      <workItem from="1556878994912" duration="3182000" />
+      <workItem from="1563994777193" duration="7479000" />
+      <workItem from="1564143201788" duration="828000" />
+    </task>
+    <task id="LOCAL-00042" summary="Fully back click responsive now. Fixed small button colour logic issue with parts.">
+      <created>1554580280490</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1554580280490</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Queue portal now updates the database sign-off entries.">
+      <created>1554583122182</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1554583122182</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Improved formatting.">
+      <created>1554585144867</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1554585144867</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Updated to use Bootstrap 4.">
+      <created>1554592979142</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1554592979142</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Better styling for button readability.">
+      <created>1554594552495</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1554594552495</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Improved accessibility in the queue portal.">
+      <created>1554641535125</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1554641535125</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Improved readability of javascript - Moved HTML creation logic and renamed variables.">
+      <created>1554643764254</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1554643764255</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Refined button html generation logic.">
+      <created>1554645334189</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1554645334189</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Heavily reformatted naming conventions and string use in button generation logic.">
+      <created>1554649762442</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1554649762443</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Database checks now complete for log ins relating to year and module code supplied. Improved some naming conventions in the javascript for queue portal.">
+      <created>1554660121838</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1554660121838</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Improved navbar mobile responsive appearance">
+      <created>1554661729520</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1554661729520</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Fixed issues between manual sign-offs and queue use in the portal. Fixed memcached logic flaw when setting assigned demonstrators.">
+      <created>1554675358136</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1554675358136</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Added basic lecturer view modules functionality. Created initial create module interface for demonstrators. Functionality needs improvement.">
+      <created>1554758228776</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1554758228776</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Add module functionality complete currently without the assignment of users for that module.">
+      <created>1554855826184</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1554855826184</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Added file upload functionality to add users to a module during the module class creation process.">
+      <created>1554941786169</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1554941786169</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Added general export class functionality. Fixed small grouping logic.">
+      <created>1555028212472</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1555028212472</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Added libs for external styling and js code. Added delete and view demonstrators features to view module portal. Enforced lowercase for module creation.">
+      <created>1555091309843</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1555091309843</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Added ability for lecturers to edit the users in their registered modules.">
+      <created>1555104154958</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1555104154958</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Added logic to ensure sign-off requests are assigned, unassigned and also provided visual prompts to alert demonstrators and lecturers if there are waiting requests.">
+      <created>1555179689729</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1555179689730</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Added admin group that can view all modules.">
+      <created>1555190598031</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1555190598031</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Admins can now manage other admins.">
+      <created>1555197523368</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1555197523368</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Much improved login interface added.">
+      <created>1555253861743</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1555253861743</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Added enter key press events for ease of use.">
+      <created>1555254336054</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1555254336054</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Added new lecturer functionality.  Fixed placeholder add new module start date.">
+      <created>1555274551450</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1555274551450</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Completed implementation refinements for worksheet locking. Also added checks to avoid worksheet lock bypassing and maximum percentage manipulation.">
+      <created>1555283933113</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1555283933113</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Refactored some queue portal code. Renamed logout button to mention changing module. Number of students waiting for sign off in a module now always mentioned. Formatted sign off confirmation dialog.">
+      <created>1555343004580</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1555343004580</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Hidden questions and parts from the sign-off portal if not relevant. Fixed issue with class creation (worksheet with parts only.)">
+      <created>1555363638861</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1555363638861</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Improved error checking for failed database queries. Fixed locked worksheet issue with improved queue portal changes.">
+      <created>1555377146606</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1555377146606</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Fixed uncaught fail echo">
+      <created>1555378613059</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1555378613059</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Fixed small no locked worksheets issue for sign-off completion. Improved error checking for memcached queries.">
+      <created>1555380393635</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1555380393635</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Added functionality to append results to a pre-existing gc document">
+      <created>1555431890843</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1555431890859</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Helped prevent students sending multiple requests for sign-off.">
+      <created>1555434951972</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1555434951972</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Added percentages and lock-date export.">
+      <created>1555438458733</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1555438458733</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Confirmation dialogs for user removal. Mobile friendly elements added (padding, wrapping). Improved text and formatting overall.">
+      <created>1555461835327</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1555461835327</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Removed redundant username reference in content of memcached values.">
+      <created>1555462943646</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1555462943646</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Small redundant code references deleted.">
+      <created>1555463356238</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1555463356238</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Enforced redirects in security.">
+      <created>1555463739000</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1555463739000</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Added jest testing for button generation">
+      <created>1555513393370</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1555513393370</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Restructured before any full manual testing.">
+      <created>1555529081310</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1555529081310</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Fixed sign off portal issue highlighted in Selenium testing.">
+      <created>1555543033315</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1555543033315</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Added Selenium file">
+      <created>1555543155519</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1555543155519</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Added Selenium instructions to readme">
+      <created>1555543687953</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1555543687953</updated>
+    </task>
+    <task id="LOCAL-00084" summary="README now contains the installation instructions.">
+      <created>1555546188947</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1555546188948</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Mentioned readme edits for auth process.">
+      <created>1555547313345</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1555547313346</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Fixed small reload issue not clearing js script.">
+      <created>1555551261159</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1555551261159</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Comments added. Small edits to queue logic.">
+      <created>1556849597122</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1556849597122</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Referenced test files">
+      <created>1556849719273</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1556849719273</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Update to match dissertation submission. Date exploit fixes added.">
+      <created>1563994965912</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1563994965913</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Updated README to contain updated installation guide.">
+      <created>1564143428547</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1564143428547</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DatabaseQueriesTest - 2019.04.27 at 18h 46m 53s.xml">
+      <configuration name="DatabaseQueriesTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DatabaseQueriesTest - 2019.04.27 at 18h 47m 34s.xml">
+      <configuration name="DatabaseQueriesTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DatabaseQueriesTest - 2019.04.27 at 18h 47m 45s.xml">
+      <configuration name="DatabaseQueriesTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DatabaseQueriesTest_test_security - 2019.04.27 at 18h 50m 08s.xml">
+      <configuration name="DatabaseQueriesTest.test_security" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DatabaseQueriesTest_test_security - 2019.04.27 at 18h 50m 23s.xml">
+      <configuration name="DatabaseQueriesTest.test_security" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DatabaseQueriesTest_test_security - 2019.04.27 at 18h 50m 45s.xml">
+      <configuration name="DatabaseQueriesTest.test_security" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DatabaseQueriesTest - 2019.05.01 at 21h 02m 36s.xml">
+      <configuration name="DatabaseQueriesTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DatabaseQueriesHelperTest - 2019.05.02 at 23h 49m 53s.xml">
+      <configuration name="DatabaseQueriesHelperTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DatabaseQueriesHelperTest - 2019.05.02 at 23h 50m 02s.xml">
+      <configuration name="DatabaseQueriesHelperTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="DatabaseQueriesHelperTest - 2019.05.03 at 03h 12m 41s.xml">
+      <configuration name="DatabaseQueriesHelperTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="755871000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18496802" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.35536295" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.27843988" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Completed implementation refinements for worksheet locking. Also added checks to avoid worksheet lock bypassing and maximum percentage manipulation." />
+    <MESSAGE value="Refactored some queue portal code. Renamed logout button to mention changing module. Number of students waiting for sign off in a module now always mentioned. Formatted sign off confirmation dialog." />
+    <MESSAGE value="Hidden questions and parts from the sign-off portal if not relevant. Fixed issue with class creation (worksheet with parts only.)" />
+    <MESSAGE value="Improved error checking for failed database queries. Fixed locked worksheet issue with improved queue portal changes." />
+    <MESSAGE value="Fixed uncaught fail echo" />
+    <MESSAGE value="Fixed small no locked worksheets issue for sign-off completion. Improved error checking for memcached queries." />
+    <MESSAGE value="Added functionality to append results to a pre-existing gc document" />
+    <MESSAGE value="Helped prevent students sending multiple requests for sign-off." />
+    <MESSAGE value="Added percentages and lock-date export." />
+    <MESSAGE value="Confirmation dialogs for user removal. Mobile friendly elements added (padding, wrapping). Improved text and formatting overall." />
+    <MESSAGE value="Removed redundant username reference in content of memcached values." />
+    <MESSAGE value="Small redundant code references deleted." />
+    <MESSAGE value="Enforced redirects in security." />
+    <MESSAGE value="Added jest testing for button generation" />
+    <MESSAGE value="Restructured before any full manual testing." />
+    <MESSAGE value="Fixed sign off portal issue highlighted in Selenium testing." />
+    <MESSAGE value="Added Selenium file" />
+    <MESSAGE value="Added Selenium instructions to readme" />
+    <MESSAGE value="README now contains the installation instructions." />
+    <MESSAGE value="Mentioned readme edits for auth process." />
+    <MESSAGE value="Fixed small reload issue not clearing js script." />
+    <MESSAGE value="Comments added. Small edits to queue logic." />
+    <MESSAGE value="Referenced test files" />
+    <MESSAGE value="Update to match dissertation submission. Date exploit fixes added." />
+    <MESSAGE value="Updated README to contain updated installation guide." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated README to contain updated installation guide." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/tests/phpUnit/UserTest.php" />
+    <entry file="file://$PROJECT_DIR$/src/tests/jest/add.worksheet.test.js" />
+    <entry file="file://$PROJECT_DIR$/src/vendor/composer/installed.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/PHPUnit/RedirectTest.php" />
+    <entry file="file://$PROJECT_DIR$/src/tests/PHPUnit/DatabaseQueries.php" />
+    <entry file="file://$PROJECT_DIR$/src/tests/PHPUnit/DatabaseQueriesTest.php" />
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/admin/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/includes/Header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/includes/Navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="60" column="6" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/includes/Security.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/lecturers/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="70" column="53" selection-start-line="70" selection-start-column="53" selection-end-line="70" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/setup_postgresql.sql" />
+    <entry file="file://$PROJECT_DIR$/setup_postgresql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="115" selection-start-line="115" selection-end-line="115" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/demonstrators/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/PHPUnit/DatabaseQueriesHelperTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/scripts/add.worksheets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="100" column="48" lean-forward="true" selection-start-line="100" selection-start-column="48" selection-end-line="100" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/includes/Modals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="41" column="52" lean-forward="true" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/scripts/class.editing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="452" column="88" selection-start-line="452" selection-start-column="88" selection-end-line="452" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/scripts/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/scripts/LoginRedirect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/scripts/LogoutRedirect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/scripts/MemcachedQueries.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="37" column="3" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/scripts/sign.off.portal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="414" column="53" selection-start-line="414" selection-start-column="53" selection-end-line="414" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/scripts/button.generation.logic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="61" lean-forward="true" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/scripts/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="e#8#81#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/shared/add_module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="7" lean-forward="true" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/shared/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="102" selection-start-line="35" selection-start-column="102" selection-end-line="35" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/shared/sign_off_portal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-403">
+          <caret line="62" column="37" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/shared/view_modules.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/students/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="70" selection-start-line="41" selection-start-column="70" selection-end-line="41" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs_private/auth/AberCheckLdap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs_private/data/MemcachedConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/scripts/Redirect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_students.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_grade_document.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/students/submit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/scripts/MemcachedDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="38" column="55" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/Jest/button.generation.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/scripts/DatabaseQueries.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="200" column="49" selection-start-line="200" selection-start-column="20" selection-end-line="200" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/scripts/DatabaseQueriesHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs/scripts/DatabaseDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5508">
+          <caret line="324" column="42" selection-start-line="324" selection-start-column="42" selection-end-line="324" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/htdocs_private/data/DBConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>worksheet_signoff</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

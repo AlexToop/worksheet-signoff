@@ -1,0 +1,147 @@
+/*.navbar-nav > ml-auto > li{*/
+/*padding-left:15px;*/
+/*padding-right:15px;*/
+/*}*/
+
+
+#navnamelink {
+    padding-right: 100px;
+}
+
+#navlogoutlink {
+    padding-left: 100px;
+}
+
+.signoffbuttons {
+    white-space: nowrap;
+    overflow: hidden;
+    width: 70px !important;
+    height: 42px !important;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.inline {
+    display: inline;
+    max-width: 25% !important;
+}
+
+.wksEntryLarge {
+    display: inline;
+    max-width: 175px !important;
+}
+
+.wksEntryXLarge {
+    display: inline;
+    max-width: 210px !important;
+}
+
+
+.pageEndPadding {
+    margin-bottom: 100px;
+}
+
+
+/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+.row.content {
+    height: 450px
+}
+
+
+.form-control {
+    max-width: 300px;
+    margin: auto;
+}
+
+.breadcrumbs {
+    text-align: center;
+}
+
+.top-margin-20px {
+    margin-top: 20px !important;
+}
+
+label {
+    margin-top: 7px;
+}
+
+hr {
+    border: 0px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 1px;
+    color: #888888; /* ie */
+    background-color: #888888; /* modern browsers */
+}
+
+
+.bottom-margin-20px{
+    margin-bottom: 20px !important;
+}
+
+
+p.smallBtmPadding {
+    padding-bottom: 20px;
+}
+
+p.largeBtmPadding {
+    padding-bottom: 40px;
+}
+
+p.smallTopPadding {
+    padding-top: 20px;
+}
+
+.buttonSideMargin5px {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+button.margin_top60 {
+    margin-top: 60px;
+}
+
+button.margin_left30 {
+    margin-left: 30px;
+}
+
+label.mediumTopPadding {
+    padding-top: 30px;
+}
+
+@media (min-width: 768px) {
+    /* don't break navbar on small screen */
+    #nav_center {
+        width: 700px /* need to found your width according to your entry*/
+    }
+}
+
+#buttonGroups label {
+    display: block;
+    margin-top: 15px;
+}
+
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+    .sidenav {
+        height: auto;
+        padding: 15px;
+    }
+
+    .row.content {
+        height: auto;
+    }
+
+    .wksEntryLarge {
+        display: block;
+        max-width: 220px !important;
+    }
+
+    .wksEntryXLarge {
+        display: block;
+        max-width: 220px !important;
+    }
+}

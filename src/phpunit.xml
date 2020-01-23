@@ -1,0 +1,27 @@
+<!--<?xml version="1.0" encoding="UTF-8" ?>-->
+<phpunit
+        bootstrap="vendor/autoload.php"
+        colors="true"
+        verbose="true"
+        stopOnFailure="false"
+        stderr="true"
+        convertNoticesToExceptions="false">
+
+    <testsuites>
+        <testsuite name="test suite">
+            <directory>tests</directory>
+        </testsuite>
+    </testsuites>
+
+    <php>
+        <server name='HTTP_HOST' value='http://localhost' />
+        <server name="SERVER_NAME" value="http://foo.bar"/>
+        <server name="SERVER_PORT" value="80"/>
+        <server name="REMOTE_ADDR" value="127.1.2.3"/>
+        <server name="REQUEST_URI" value="1"/>
+        <server name="HTTPS" value="true"/>
+
+
+    </php>
+
+</phpunit>
